@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,vpn.qztc.edu.cn
+DOMAIN-SUFFIX,www.pexels.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com

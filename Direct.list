@@ -1,0 +1,21 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+# MyList
+DOMAIN-SUFFIX,tusiart.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,dmhy.b168.net
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,bbs.acgrip.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,ra2ol.com
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,pkuit.com
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,right.com.cn
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,speedtest.net
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com

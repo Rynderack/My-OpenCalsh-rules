@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🎯 直连
-    url: "https://YViNFucgaG.qinyues4.cc/9fd53108c1bf568f57dfbbbf1dc7a0a6&flag=clash"
+    url: "机场1"
 
 # 用于下载订阅时指定UA
 global-ua: clash

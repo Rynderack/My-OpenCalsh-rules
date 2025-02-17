@@ -1,0 +1,19 @@
+#美团
+*.dianping.com
+*.maoyan.com
+*.meituan.com
+*.meituan.net
+*.mtyun.com
+*.neixin.cn
+*.sankuai.com
+#小米天气提醒
+weatherapi.market.xiaomi.com
+#Deviantart 艺术网站
+*.deviantart.com
+#百度百科
+baike.baidu.com
+#谷歌商店
++.services.googleapis.cn
++.xn--ngstr-lra8j.com
+#即梦
+jimeng.jianying.com

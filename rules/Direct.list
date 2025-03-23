@@ -22,5 +22,15 @@ DOMAIN-SUFFIX,jisho.org
 DOMAIN-SUFFIX,socpk.com
 DOMAIN-SUFFIX,fly-dbh.com
 
+# 讯飞输入法
+DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,xunfei.cn
+DOMAIN-SUFFIX,iflyink.com
+DOMAIN-SUFFIX,iflyrec.com
+DOMAIN-SUFFIX,ets100.com
+DOMAIN-SUFFIX,zhixue.com
+DOMAIN-SUFFIX,changyan.com
+DOMAIN-SUFFIX,xunfeixxj.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com

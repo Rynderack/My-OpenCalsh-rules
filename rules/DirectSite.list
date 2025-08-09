@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,whitehouse.gov
 DOMAIN-SUFFIX,wh.gov
 DOMAIN-SUFFIX,doc2x.com
 DOMAIN,rewards.bing.com
+DOMAIN-SUFFIX,hcfy.ai
 
 # 讯飞输入法
 DOMAIN-SUFFIX,iflytek.com
